@@ -1,6 +1,6 @@
 # VPN Interface Detector
 
-A simple Bash script that identifies exactly which network interface your VPN is using by comparing system states before and after connection.
+A simple Bash script that identifies exactly which network interface your VPN is using by comparing system states before and after connection. This tool is perfect for configuring **VPN Binding** in BitTorrent clients (like qBittorrent).
 
 ## Quick Install (Recommended)
 
